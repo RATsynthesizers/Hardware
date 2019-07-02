@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Codec_board.SchDoc
+Record=SheetSymbol|SourceDocument=Codec_board.SchDoc|Designator=Codec|SchDesignator=Codec|FileName=Codec.SchDoc|SymbolType=Normal|RawFileName=Codec.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Codec.SchDoc|Designator=Input|SchDesignator=Input|FileName=Input_stage.SchDoc|SymbolType=Normal|RawFileName=Input_stage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Codec.SchDoc|Designator=Output|SchDesignator=Output|FileName=Output_stage.SchDoc|SymbolType=Normal|RawFileName=Output_stage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Codec.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power_18.SchDoc|SymbolType=Normal|RawFileName=Power_18.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
